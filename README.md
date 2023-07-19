@@ -1,3 +1,7 @@
+
+史上最全Markdown语法大全，Markdown使用手册，Typora使用手册，使用手册直接保存仓库README.md问价即可。
+
+
 # Typora
 
 
